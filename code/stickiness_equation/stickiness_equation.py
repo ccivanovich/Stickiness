@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Calculates stickiness based off of the derivation using wet bulb
 # temperature as described in Ivanovich et al. 2024. Requires 
 # inputs of dry bulb temperature (C) and specific humidity (kg/kg).
